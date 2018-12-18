@@ -1,0 +1,95 @@
+{
+  "configVersion": 1,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "/favicon.ico",
+        "/index.html",
+        "/main.7d341e2828a4b76ba2e7.js",
+        "/polyfills.20ab2d163684112c2aba.js",
+        "/runtime.ec2944dd8b20ec099bf3.js",
+        "/styles.b7012634752517084709.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "/assets/icons/icon-128x128.png",
+        "/assets/icons/icon-144x144.png",
+        "/assets/icons/icon-152x152.png",
+        "/assets/icons/icon-192x192.png",
+        "/assets/icons/icon-384x384.png",
+        "/assets/icons/icon-512x512.png",
+        "/assets/icons/icon-72x72.png",
+        "/assets/icons/icon-96x96.png",
+        "/assets/img/Logo.g.png",
+        "/assets/img/Logo.p.png",
+        "/assets/img/aguila.png",
+        "/assets/img/angular-white-transparent.svg",
+        "/assets/img/error-bg.jpg",
+        "/assets/img/genesis.png",
+        "/assets/img/icon-error.png",
+        "/assets/img/logo-512.png",
+        "/assets/img/logo-webtraining.png",
+        "/assets/img/logo.png",
+        "/assets/img/loguito.png",
+        "/assets/img/prosin.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/assets/img/Logo.g.png": "34c9e7444d6ae86a8fbdefba33e4d1728e435821",
+    "/assets/img/Logo.p.png": "e9a4986b21863d28ecf884dafe0543b7c1fd0642",
+    "/assets/img/aguila.png": "7f53e249eb5715bfceb05f2482994ee84396ec2b",
+    "/assets/img/angular-white-transparent.svg": "3d3538c3683d6937a39c92d17a27d2637fba70f5",
+    "/assets/img/error-bg.jpg": "d5381105e14b48ce54a804873b8cff5526440769",
+    "/assets/img/genesis.png": "01396cacbaafcc0189f26a5d1a10ebc56b8572c6",
+    "/assets/img/icon-error.png": "6b173136768400c439a8a76e218aea423ee71d5c",
+    "/assets/img/logo-512.png": "7a5ad36b2d68bc84212789e3d62e4c35f483b962",
+    "/assets/img/logo-webtraining.png": "a07f5471b1feb31105e7f8000c8d2b6da17fa008",
+    "/assets/img/logo.png": "027e93d53eb4e1d255567081a371e235ec420add",
+    "/assets/img/loguito.png": "2198f597d4f3498c4e39c3a6f850cd5c3b926f9f",
+    "/assets/img/prosin.png": "88a8c1839ada7b73d7a442dac3816ed22d2f2381",
+    "/favicon.ico": "55daf10c9abfeaceb023026524323d57242fc8e0",
+    "/index.html": "31be00f8823600d01405d3b28ed37a116ddd0482",
+    "/main.7d341e2828a4b76ba2e7.js": "80f68fafcb0db9e4488cbbbbd0e4ec7233911cf7",
+    "/polyfills.20ab2d163684112c2aba.js": "ce68d153e9b9b6d26b625069c0ee99ae09c6f255",
+    "/runtime.ec2944dd8b20ec099bf3.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
+    "/styles.b7012634752517084709.css": "f5176e67e5c243fae46d8f98e6661691f59e260d"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
