@@ -389,9 +389,9 @@ MIT
 
 @angular/material/checkbox
 
-@angular/material/sidenav
-
 @angular/material/toolbar
+
+@angular/material/sidenav
 
 @angular/material/list
 
